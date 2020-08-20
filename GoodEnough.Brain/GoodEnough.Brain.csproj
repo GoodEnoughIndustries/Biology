@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoodEnough.Brain.Abstractions\GoodEnough.Brain.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
