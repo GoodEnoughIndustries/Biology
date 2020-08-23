@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoodEnough.Biology.Abstractions\GoodEnough.Biology.Abstractions.csproj" />
+    <ProjectReference Include="..\GoodEnough.Biology\GoodEnough.Biology.csproj" />
+  </ItemGroup>
+
+</Project>
