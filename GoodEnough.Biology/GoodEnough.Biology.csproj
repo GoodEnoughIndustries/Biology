@@ -4,8 +4,4 @@
     <ProjectReference Include="..\GoodEnough.Biology.Abstractions\GoodEnough.Biology.Abstractions.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Organs\" />
-  </ItemGroup>
-
 </Project>
