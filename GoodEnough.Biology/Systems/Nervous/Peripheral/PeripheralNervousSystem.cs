@@ -1,3 +1,5 @@
+using GoodEnough.Biology.Systems.Nervous.Peripheral.Autonomic;
+
 namespace GoodEnough.Biology.Systems.Nervous.Peripheral
 {
     public class PeripheralNervousSystem : BaseSystem
