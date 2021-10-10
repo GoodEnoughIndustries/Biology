@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GoodEnough.Biology.Abstractions\GoodEnough.Biology.Abstractions.csproj" />
+    <ProjectReference Include="..\GoodEnough.Biology.Human\GoodEnough.Biology.Human.csproj" />
     <ProjectReference Include="..\GoodEnough.Biology\GoodEnough.Biology.csproj" />
   </ItemGroup>
 
